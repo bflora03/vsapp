@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "yqV0bSOGWABDbmZvfsB+fYYJ0aW5qaOYpPWjkvG83ls7THjH8alyd2qNH8zVc4Co9SbpDy5RDtjdrMVCHWK5tA==",
+  "dgSpecHash": "wMXurLiEurKZeLg1XyyI97kay3KH4R6tcMURER2+TasEVlJPwTRjSw29KUyE67kKZ37SelqJCV1V9F2UuNHBqg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ca567s\\source\\repos\\vsapp\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "C:\\Users\\flora\\Source\\Repos\\vsapp\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ca567s\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512"
+    "C:\\Users\\flora\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ca567s\\source\\repos\\vsapp\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
+    "C:\\Users\\flora\\Source\\Repos\\vsapp\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ca567s\\source\\repos\\vsapp\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\Users\\flora\\Source\\Repos\\vsapp\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ca567s\\source\\repos\\vsapp\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\Users\\flora\\Source\\Repos\\vsapp\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\Users\\ca567s\\source\\repos\\vsapp\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
-        "packagesPath": "C:\\Users\\ca567s\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ca567s\\source\\repos\\vsapp\\WebApplication1\\WebApplication1\\obj\\",
+        "projectPath": "C:\\Users\\flora\\Source\\Repos\\vsapp\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "packagesPath": "C:\\Users\\flora\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\flora\\Source\\Repos\\vsapp\\WebApplication1\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ca567s\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\flora\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -65,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
